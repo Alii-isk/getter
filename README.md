@@ -8,7 +8,7 @@ Flutter plugin you can through it get images, videos, or audios from the local s
 
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Release Status](https://github.com/flutter/packages/actions/workflows/release.yml/badge.svg)](#)
+[![Release Status](https://github.com/flutter/packages/actions/workflows/release.yml/badge.svg)](https://github.com/nesyou01/getter)
 
 
 ## Using
