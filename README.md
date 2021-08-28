@@ -24,5 +24,5 @@ change the type by what you need, you can chose between ``GetterType.videos``,``
 ## Issues
 
 Please file any issues, bugs, or feature requests in the [main getter
-repo](https://github.com/flutter/flutter/issues/new).
+repo](https://github.com/nesyou01/getter/issues/new).
 
