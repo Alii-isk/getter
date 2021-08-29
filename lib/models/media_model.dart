@@ -1,3 +1,4 @@
+/// make this Model part of the main project
 part of 'package:getter/getter.dart';
 
 class Media {
@@ -22,12 +23,16 @@ class Media {
 
   factory Media.fromJson(Map<String, dynamic> json) => Media(
         id: int.parse(json["id"].toString()),
+
+        /// convert [String] to [DateTime]
         addedTime: DateTime.parse(json["date"].toString()),
         mimeType: json["mime_type"].toString(),
         path: Uri.parse(json["path"].toString()),
         size: int.parse(json["size"].toString()),
         title: json["title"].toString(),
         artist: json["artist"] != null ? json['artist'].toString() : null,
-        duration: json["duration"] != null ? int.parse(json["duration"].toString()) : null,
+        duration: json["duration"] != null
+            ? int.parse(json["duration"].toString())
+            : null,
       );
 }
