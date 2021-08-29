@@ -35,3 +35,6 @@ change the type by what you need, you can chose between ``GetterType.videos``,``
 Please file any issues, bugs, or feature requests in the [main getter
 repo](https://github.com/nesyou01/getter/issues/new).
 
+## Buy me a coffe
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/nesyou)
