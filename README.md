@@ -4,7 +4,7 @@ Made flutter easier.
 
 # Description
 
-Flutter plugin you can through it get images, videos, or audios from the local storage.
+A flutter plugin through which you can get audios, videos or images from the local storage.
 
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
