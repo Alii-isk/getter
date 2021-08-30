@@ -149,12 +149,12 @@ class GetterPlugin : FlutterPlugin, MethodCallHandler, ActivityAware {
     }
 }
 
-enum class GetterType {
+private enum class GetterType {
     Videos, Photos, Audios, All
 }
 
 
-class Media(
+private class Media(
     var id: String,
     var title: String,
     var date: String,
