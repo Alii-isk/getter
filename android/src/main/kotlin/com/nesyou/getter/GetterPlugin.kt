@@ -95,7 +95,7 @@ class GetterPlugin : FlutterPlugin, MethodCallHandler, ActivityAware {
         val projection = arrayOf(
             MediaStore.Files.FileColumns._ID,
             MediaStore.Files.FileColumns.DATA,
-            MediaStore.Files.FileColumns.DATE_ADDED,
+            MediaStore.Files.FileColumns.DATE_TAKEN,
             MediaStore.Files.FileColumns.MIME_TYPE,
             MediaStore.Files.FileColumns.TITLE,
             MediaStore.Files.FileColumns.ARTIST,
